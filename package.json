@@ -1,0 +1,18 @@
+{
+  "name": "mdx-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@mdx-js/typescript-plugin": "^0.0.5",
+    "remark-frontmatter": "^5.0.0",
+    "remark-gfm": "^4.0.0",
+    "typescript": "^5.5.4"
+  }
+}
